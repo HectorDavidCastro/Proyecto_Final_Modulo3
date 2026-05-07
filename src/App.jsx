@@ -7,12 +7,13 @@ import { LogInPage } from './Pages/LogInPage'
 import { RecetasPages } from './Pages/RecetasPages'
 import { GuardadasPage } from './Pages/GuardadasPage'
 import { Receta } from './components/Receta'
+import styles from "./css/App.module.css"
 
 function App() {
 
 
   return (
-    <>
+    <div className={styles.container}>
        <header>
         <Header/>
       </header>
@@ -28,7 +29,7 @@ function App() {
       <footer>
         <Footer/>
       </footer>
-    </>
+    </div>
   )
 }
 
