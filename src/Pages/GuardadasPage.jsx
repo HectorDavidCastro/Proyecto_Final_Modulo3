@@ -1,7 +1,7 @@
 import React from 'react'
 import { RecetasGuardadas } from '../components/RecetasGuardadas'
 
-export const Guaradadaspage = () => {
+export const GuardadasPage = () => {
   return (
     <div>
         <RecetasGuardadas/>
