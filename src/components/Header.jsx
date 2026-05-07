@@ -1,7 +1,11 @@
 import React from 'react'
+import { NavBar } from './NavBar'
 
 export const Header = () => {
   return (
-    <div>Header</div>
+    <div>
+        <h1>Recetas YA</h1>
+        <NavBar/>
+    </div>
   )
 }
