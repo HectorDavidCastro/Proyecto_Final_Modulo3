@@ -1,7 +1,10 @@
 import React from 'react'
 
+
 export const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>
+        <h1>Recetas Ya</h1>
+    </div>
   )
 }
