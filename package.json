@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
+  "homepage": "htts://HectorDavidCastro.github.io/Proyecto_Final_Modulo3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
