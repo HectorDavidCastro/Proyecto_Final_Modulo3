@@ -1,0 +1,14 @@
+.container{
+    background-color: #ade8f4;
+}
+
+/* @media (max-width: 600px) {
+    .container{
+        background-color: #001418;
+    }
+} */
+/* @media (min-width: 601px) and (max-width: 1024px) {
+    .container{
+        background-color: #0077b6;
+    }
+} */
